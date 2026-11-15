@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Personal AI voice and device control assistant with an English futuristic HUD interface and natural Hindi spoken responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
